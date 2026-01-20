@@ -96,16 +96,16 @@ function App() {
           <h1 id="heroTitle">
             {birthdayReached ? (
               <>
-                Happy Birthday <span className="highlight">[Name]</span> 🎂
+                Happy Birthday <span className="highlight"> Jiya </span> 🎂
               </>
             ) : (
               <>
-                Counting down to <span className="highlight">[Name]'s</span>{" "}
+                Counting down to <span className="highlight"> Jiya's </span>{" "}
                 special day 🎂
               </>
             )}
           </h1>
-          <p>Your personalized message goes here 💗</p>
+          <p> Gandi chokri tara bday na chakkar ma one day we will all go mad💗</p>
         </section>
 
         <Countdown
@@ -117,9 +117,9 @@ function App() {
           <h2 id="teaserHeading">
             {birthdayReached
               ? "💖 Ready for your surprise! 💖"
-              : "✨ A special celebration awaits you at midnight... ✨"}
+              : "✨ An exciting celebration awaits you at midnight... ✨"}
           </h2>
-          <p className="teaser-hint">Something magical is about to unfold 💫</p>
+          <p className="teaser-hint">Something interesting is about to unfold 💫</p>
         </section>
 
         <button
@@ -155,7 +155,7 @@ function App() {
         </button>
         <MessageCard isActive={currentPage === 3} />
         <button className="page-nav-btn" onClick={() => goToPage(4)}>
-          📸 View Our Memories
+          📸 Memories
         </button>
       </div>
 
@@ -170,8 +170,8 @@ function App() {
         </button>
         <Gallery isActive={currentPage === 4} />
         <section className="final">
-          <h2 className="final-message">💖 Forever Yours — [Your Name] 💖</h2>
-          <p className="final-subtitle">Your personalized closing message ✨</p>
+          <h2 className="final-message">💖 I hope you are excited! 💖</h2>
+          <p className="final-subtitle"> See you tomorrow at 11 AM sharp! ✨</p>
         </section>
       </div>
 
