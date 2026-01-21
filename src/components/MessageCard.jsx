@@ -14,14 +14,25 @@ function MessageCard({ isActive }) {
   const messageContentRef = useRef(null);
 
   const message = `Jiyu,
+Happy 17th, my little sister. I love you so much, you have grown into such a kind, 
+considerate and extremely hardworking woman.
 
-Your personalized birthday message goes here.
+You will be going away soon, and right now your life seems such a confusing puzzle, 
+what college you'll go to, what do you want to become, which friends to hold on to which to let go,
+slowly slowly as you reach your adulthood the crisis are just behind you. 
+So I thought instead of helping why not add to it.
 
-You can write multiple paragraphs to express your feelings,
-share memories, and make this special day even more memorable.
+So by now you have guessed it. This year your birthday is going to be a treasure hunt.
+Today, you will be asked to:
+• follow clues
+• go to places you know (and maybe one you don’t)
+• solve tiny mysteries
+• and collect three hidden treasures
+3 clues, 3 places, 3 gift and an amazing birthday.🎉
 
-This template supports multiple lines and formatting,
-so feel free to customize it completely to fit your style.
+🕒 Important Rule:
+By 11:00 AM, you must be fully ready.
+Comfortable clothes. Charged phone. Curious mind.
 
 Happy Birthday! 🎉
 
