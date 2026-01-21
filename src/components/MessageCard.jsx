@@ -28,7 +28,7 @@ Today, you will be asked to:
 • go to places you know (and maybe one you don’t)
 • solve tiny mysteries
 • and collect three hidden treasures
-3 clues, 3 places, 3 gift and an amazing birthday.🎉
+3 clues, 3 places, 3 gifts and 1 amazing birthday.🎉
 
 🕒 Important Rule:
 By 11:00 AM, you must be fully ready.
